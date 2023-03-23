@@ -1,4 +1,4 @@
-
+print('a')
 
 import torchvision
 import torchvision.transforms as transforms
